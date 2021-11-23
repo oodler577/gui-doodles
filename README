@@ -1,0 +1,12 @@
+This repo has wxWidget projects in various stages. All
+are created while learning how to use wxGlade (GUI builder)
+to make wxWidget based GUI applications using wxPerl to
+implement the event handlers. Some examples have just the
+final Perl script while others have the project file (and
+potentially the Perl script).
+
+Original post discussing the first project, the calculator:
+
+    http://blogs.perl.org/users/oodler_577/2021/11/i-made-a-calculator.html
+
+Enjoy!

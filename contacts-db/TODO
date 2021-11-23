@@ -1,0 +1,5 @@
+This app needs:
+
+1. handlers for buttons
+2. interactions with a SQLite database
+3. maybe a "delete record" button
